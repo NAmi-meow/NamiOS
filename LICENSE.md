@@ -1,12 +1,12 @@
  GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
- NAmiOS — a from-scratch 64-bit operating system
- Copyright (C) 2025  Nakahara & Ami (NAmi-meow)
+  NAmiOS — a from-scratch 64-bit operating system
+  Copyright (C) 2025  Nakahara & Ami (NAmi-meow)
 
- Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
- Everyone is permitted to copy and distribute verbatim copies
- of this license document, but changing it is not allowed.
+  Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+  Everyone is permitted to copy and distribute verbatim copies
+of this license document, but changing it is not allowed.
 
                             Preamble
 
