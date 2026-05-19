@@ -80,6 +80,6 @@ Naka – system architecture, kernel, drivers, binary translator, everything low
 Ami – UI/UX design, themes, visual identity, and making the terminal look cute.
 
 ## 📜 License
-NAmiOS is open source, licensed under the [MIT License](LICENSE.md).
+NAmiOS is open source, licensed under the [MIT License](LICENSE).
 
 <p align="center"><i>We are building the OS we always wanted to use. 🐾</i></p>
